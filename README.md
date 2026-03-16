@@ -24,6 +24,18 @@ ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
 ---
 
+###  GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=transparent&title_color=ff2fa3&icon_color=ff2fa3&text_color=c9d1d9&border_color=ff2fa3"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Viva03&theme=transparent&ring=ff2fa3&fire=ff2fa3&currStreakLabel=ff2fa3&border=ff2fa3"/>
+
+</p>
+
+---
+
 ###  Featured Projects
 
 **Campus Recruitment Platform**  
@@ -37,18 +49,6 @@ Full-stack ASP.NET web app with employee/admin dashboards.
 
 **QR Code Generator**  
 Customizable QR generator with colors, logos, and downloads.
-
----
-
-###  GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=transparent&title_color=ff2fa3&icon_color=ff2fa3&text_color=c9d1d9&border_color=ff2fa3"/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Viva03&theme=transparent&ring=ff2fa3&fire=ff2fa3&currStreakLabel=ff2fa3&border=ff2fa3"/>
-
-</p>
 
 ---
 
