@@ -1,1 +1,70 @@
-<div align="center"><img src="https://capsule-render.vercel.app/view?type=soft&color=0d1117&height=180&section=header&text=Viva%20Baranwal&fontSize=70&animation=fadeIn&fontColor=ff69b4&desc=Computer%20Science%20Engineering%20•%20ASP.NET%20Core%20Engineer&descSize=20&descAlignY=75" width="100%" />Technical Lead at Founder's Club • CSE Student at SRMIST <div align="left">IntroductionI am a Computer Science Engineering student at SRM Institute of Science and Technology (2024–2028). My work focuses on the intersection of robust backend architecture and modern user experience. Currently, I lead technical initiatives for the Founder's Club, managing web platforms and executing flagship events like Foundathon 2.0.Technical ExpertiseBackend & SystemsASP.NET Core MVC • Node.js • C# • MS SQL • Java • C/C++ Frontend & DesignReact.js • TypeScript • Tailwind CSS • Shadcn UI • Canva Intelligence & DataDistilBERT • Python • Statistical Analysis • Hugging Face Engineering Projects✦ Rakshak AI (VerifAi)An AI-powered contract analysis tool engineered for legal document scrutiny across enterprise and government sectors. It utilizes RAG and Agentic AI to ensure high-fidelity document verification.✦ STARTIN' - Campus Recruitment PlatformA closed-loop web platform designed to bridge the gap between startups and interns. Developed to reduce competition and help students find relevant early-career internships through a tailored ecosystem.✦ Global Health Statistics AnalysisConducted a comparative analysis of health statistics to assess the relationship between vaccination coverage and disease rates. Developed an AI-powered question-answering system using DistilBERT to extract insights and propose data-driven policy recommendations.✦ Leave Management SystemA full-stack web application featuring a comprehensive backend and MS SQL database. Designed with distinct dashboards for users and administrators to manage the entire workflow from submission to approval.✦ Event Registration Web ApplicationDeveloped a full-stack application for a student club to securely process and store registration data. Implemented automated email confirmation features to streamline club operations.Insights & Activity<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DViva03%26show_icons%3Dtrue%26theme%3Drose%26bg_color%3D0d1117%26title_color%3Dff69b4%26icon_color%3Dff69b4%26text_color%3Dffffff%26hide_border%3Dtrue" width="48%" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DViva03%26layout%3Dcompact%26theme%3Drose%26bg_color%3D0d1117%26title_color%3Dff69b4%26text_color%3Dffffff%26hide_border%3Dtrue" width="40%" /></p>ContactLinkedIn • Email • GitHub </div><img src="https://capsule-render.vercel.app/view?type=waving&color=ff69b4&height=60&section=footer" width="100%" /></div>
+<div align="center">
+
+<h1 style="color:#ff2fa3; font-size:42px;">Viva Baranwal</h1>
+
+<p style="color:#ff6ec7;">
+ASP.NET Developer • .NET Backend Builder • Computer Science Student
+</p>
+
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&color=FF2FA3&center=true&vCenter=true&width=600&lines=Building+modern+.NET+web+applications;Hackathons+%7C+Backend+Systems+%7C+Web+Apps;Turning+ideas+into+real+products"/>
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp,java,react,nodejs,html,css,js,git,vscode"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**Campus Recruitment Platform**  
+A platform connecting startups with students for early internships.
+
+**Global Health Data Analysis**  
+Analyzed vaccination and disease datasets with ML insights.
+
+**Leave Management System**  
+Full-stack ASP.NET web app with employee/admin dashboards.
+
+**QR Code Generator**  
+Customizable QR generator with colors, logos, and downloads.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=transparent&title_color=ff2fa3&icon_color=ff2fa3&text_color=c9d1d9&border_color=ff2fa3"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Viva03&theme=transparent&ring=ff2fa3&fire=ff2fa3&currStreakLabel=ff2fa3&border=ff2fa3"/>
+
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+• Advanced ASP.NET architecture  
+• Backend system design  
+• Building real startup products  
+
+---
+
+### 📫 Connect
+
+LinkedIn  
+https://linkedin.com/in/viva-baranwal  
+
+GitHub  
+https://github.com/Viva03  
+
+Email  
+baranwalviva@gmail.com
