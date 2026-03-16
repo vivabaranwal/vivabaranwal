@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Viva Baranwal
+
 
 ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
@@ -16,7 +16,7 @@ ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp,java,react,nodejs,html,css,js,git,vscode"/>
@@ -24,7 +24,7 @@ ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **Campus Recruitment Platform**  
 A platform connecting startups with students for early internships.
@@ -40,7 +40,7 @@ Customizable QR generator with colors, logos, and downloads.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Customizable QR generator with colors, logos, and downloads.
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 • Advanced ASP.NET architecture  
 • Backend system design  
@@ -60,13 +60,11 @@ Customizable QR generator with colors, logos, and downloads.
 
 ---
 
-### 📫 Connect
+###  Connect
 
 LinkedIn  
 https://linkedin.com/in/viva-baranwal  
 
 GitHub  
-https://github.com/Viva03  
+https://github.com/vivabaranwal 
 
-Email  
-baranwalviva@gmail.com
