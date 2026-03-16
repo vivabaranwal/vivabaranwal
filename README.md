@@ -1,6 +1,6 @@
 <p align="center">
 
-<svg width="100%" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -10,10 +10,10 @@
 </linearGradient>
 </defs>
 
-<rect x="0" y="50" width="900" height="4" fill="url(#neonGradient)" rx="2"/>
+<rect x="0" y="55" width="900" height="6" fill="url(#neonGradient)" rx="3"/>
 
-<circle cx="50" cy="52" r="6" fill="#ff2fa3"/>
-<circle cx="850" cy="52" r="6" fill="#8a2be2"/>
+<circle cx="60" cy="58" r="7" fill="#ff2fa3"/>
+<circle cx="840" cy="58" r="7" fill="#8a2be2"/>
 
 </svg>
 
@@ -85,7 +85,5 @@ LinkedIn
 https://linkedin.com/in/viva-baranwal  
 
 GitHub  
-https://github.com/Viva03  
+https://github.com/vivabaranwal  
 
-Email  
-baranwalviva@gmail.com
