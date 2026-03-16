@@ -1,3 +1,23 @@
+<p align="center">
+
+<svg width="100%" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#ff2fa3"/>
+<stop offset="50%" stop-color="#ff6ec7"/>
+<stop offset="100%" stop-color="#8a2be2"/>
+</linearGradient>
+</defs>
+
+<rect x="0" y="50" width="900" height="4" fill="url(#neonGradient)" rx="2"/>
+
+<circle cx="50" cy="52" r="6" fill="#ff2fa3"/>
+<circle cx="850" cy="52" r="6" fill="#8a2be2"/>
+
+</svg>
+
+</p>
 <div align="center">
 
 <h1 style="color:#ff2fa3; font-size:42px;">Viva Baranwal</h1>
