@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2000&auto=format&fit=crop" width="100%" />
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2000&auto=format&fit=crop" width="100%" />
 
-<h1 style="color:#ff2fa3;">Viva Baranwal</h1>
+<h1 style="color:#ff3ea5;">Viva Baranwal</h1>
 
 <p>
-ASP.NET Developer • .NET Backend Builder • Computer Science Student
+.NET Developer • Backend Builder • Hackathon Explorer
 </p>
 
 </div>
