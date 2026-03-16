@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=220&section=header&text=Viva%20Baranwal&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff00cc,40:ff0077,80:ff1493,100:6a00ff&text=Viva%20Baranwal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F58CA7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer;AI+Explorer;Building+cool+things+on+the+internet"/>
 
