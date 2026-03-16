@@ -23,3 +23,55 @@ interests = [
 ]
 
 current_mission = "Turning ideas into real products"
+
+💻 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,react,nodejs,html,css,js,git,vscode"/> </p>
+🚀 Projects
+
+🌐 Campus Recruitment Platform
+Platform connecting startups and students for internships.
+
+📊 Global Health AI Analysis
+AI powered insights from vaccination and disease datasets.
+
+📋 Leave Management System
+Full stack ASP.NET web app with employee/admin dashboards.
+
+🔳 QR Code Generator
+Customizable QR generator with color and logo options.
+
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=rose_pine&hide_border=true"/> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Viva03&theme=rose_pine&hide_border=true"/> </p>
+🌱 Currently Learning
+
+Advanced React
+
+Backend architectures
+
+AI integrations in web apps
+
+Building real startup products
+
+☕ Developer Lore
+while(alive){
+    eat();
+    code();
+    debug();
+    repeat();
+}
+📫 Connect
+
+💼 LinkedIn
+https://linkedin.com/in/viva-baranwal
+
+🐙 GitHub
+https://github.com/vivabaranwal
+
+📧 Email
+vivacodes03@gmail.com
+
+<div align="center">
+
+⭐ "Building ideas that once lived only in notebooks."
+
+</div> ```
