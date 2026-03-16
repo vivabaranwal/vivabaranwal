@@ -40,7 +40,8 @@ ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
 • Advanced ASP.NET architecture  
 • Backend system design  
-• Building real products  
+• Building real products
+• Cloud Computing
 
 ---
 
