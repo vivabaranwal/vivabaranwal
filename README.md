@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=12,24,30&text=&animation=fadeIn"/>
+</p>
+<p align="center">
 
 <svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
 
