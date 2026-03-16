@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff00cc,40:ff0077,80:ff1493,100:6a00ff&text=Viva%20Baranwal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2000&auto=format&fit=crop" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F58CA7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Web+Developer;AI+Explorer;Building+cool+things+on+the+internet"/>
+<h1 style="color:#ff2fa3;">Viva Baranwal</h1>
+
+<p>
+ASP.NET Developer • .NET Backend Builder • Computer Science Student
+</p>
 
 </div>
 
