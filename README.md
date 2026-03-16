@@ -1,85 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/view?type=soft&color=0d1117&height=120&section=header&text=Viva%20Baranwal&fontSize=50&animation=fadeIn&fontColor=ff00ff&desc=ASP.NET%20Core%20MVC%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20CSE%20Student&descSize=20&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/view?type=rect&color=0d1117&height=180&section=header&text=VIVA%20BARANWAL&fontSize=75&animation=twinkling&fontColor=ff00ff&desc=%E2%96%BE%20ASP.NET%20CORE%20ENGINEER%20%E2%96%BE%20AI%20ENTHUSIAST%20%E2%96%BE%20CSE%20AT%20SRMIST&descSize=20&descAlignY=70" width="100%" />
 
-<br/>
-
-### ⚡ Architecting Scalable Digital Experiences
-*Computer Science Engineering Student at SRMIST • Technical Lead at Founder's Club*
-
----
-
-<div align="left">
-
-## 🌌 About Me
-I am a developer driven by the intersection of **clean architecture** and **modern aesthetics**. [cite_start]Currently pursuing my B.Tech in CSE, I specialize in the .NET ecosystem and AI-powered insights to build high-performance, user-centric products. [cite: 8, 12, 18]
-
-* [cite_start]🔭 **Technical Leadership:** Spearheading web development and flagship events like Foundathon 2.0. [cite: 35, 38]
-* [cite_start]🚀 **Core Focus:** Building robust backend systems with ASP.NET Core and React frontends. [cite: 20, 27, 31]
-* [cite_start]💡 **Problem Solving:** Passionate about data-driven policy recommendations and ethical AI. [cite: 12, 59]
-
-</div>
-
----
-
-## 🛠️ Tech Ecosystem
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="250">
-      <strong>Core Languages</strong><br/>
-      <code>C#</code> • <code>Python</code> • <code>Java</code><br/><code>C++</code> • <code>C</code> [cite: 42]
-    </td>
-    <td align="center" width="250">
-      <strong>Web & AI</strong><br/>
-      <code>ASP.NET Core MVC</code> • <code>React.js</code><br/><code>Node.js</code> • <code>DistilBERT</code> [cite: 43]
-    </td>
-    <td align="center" width="250">
-      <strong>Tools & Platforms</strong><br/>
-      <code>GitHub</code> • <code>Visual Studio</code><br/><code>Canva</code> • <code>MS SQL</code> [cite: 20, 45]
-    </td>
-  </tr>
-</table>
-
----
-
-## 💎 Featured Engineering
-
-### 🏛️ [STARTIN' - Campus Recruitment](https://github.com/lehanvats/Project-Fin.git)
-> [cite_start]A campus-closed platform connecting startups and interns, effectively reducing competition for early-career students. [cite: 15, 17]
-
-### 🌍 [Global Health Statistics Analysis](https://github.com/Viva03/Flairquest2.git)
-> [cite_start]AI-powered question-answering system using DistilBERT to extract insights from complex health datasets. [cite: 10, 12, 14]
-
-### 📅 [Leave Management System](https://github.com/Viva03/EmployeeManagementSystem.git)
-> [cite_start]Full-stack enterprise application with dedicated dashboards for automated employee and manager workflows. [cite: 18, 19, 21]
-
-### 📱 [QR Generator](https://github.com/Viva03/qrGenerator.git)
-> [cite_start]High-performance utility using React and Node.js for custom, logo-branded QR code generation with real-time previews. [cite: 29, 31, 33]
-
----
-
-## 📊 Git Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viva03&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" height="150" />
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPING_THE_FUTURE-ff00ff?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C_IN-7a2ed1?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## 📬 Connect & Collaborate
+## ⚡ [SYSTEM_OVERVIEW]
+[cite_start]**A Technical Lead [cite: 35] and Full-Stack Developer bridging the gap between sophisticated backend logic and sleek frontend design.** I build tools that automate the mundane and analyze the complex.
+
+---
+
+## 🧬 NEURAL_SKILLS_MAP
+| 🟢 BACKEND POWER | 🟣 FRONTEND & UI | 🔵 DATA & AI |
+| :--- | :--- | :--- |
+| [cite_start]**ASP.NET Core MVC** [cite: 20] | [cite_start]**React.js & TypeScript** [cite: 27] | [cite_start]**Python & DistilBERT** [cite: 13] |
+| [cite_start]**Node.js & Express** [cite: 31] | [cite_start]**Tailwind CSS & Shadcn** [cite: 31] | [cite_start]**Statistical Analysis** [cite: 44] |
+| [cite_start]**C# / Java / C++** [cite: 42] | [cite_start]**Modern Web Design** [cite: 51] | [cite_start]**ML Algorithm Insights** [cite: 49] |
+| [cite_start]**MS SQL Management** [cite: 19] | [cite_start]**Canva / Digital Art** [cite: 45, 62] | [cite_start]**IoT Transformation** [cite: 60] |
+
+---
+
+## 🏆 OPERATIONAL_PROJECTS
+<table border="0">
+ <tr>
+    <td>
+      <h3>🛰️ Rakshak AI / VerifAi</h3>
+      <p>AI-powered contract analysis tool designed for legal document scrutiny across enterprise and government sectors.</p>
+      <code>RAG</code> • <code>Agentic AI</code> • <code>Full Stack</code>
+    </td>
+    <td>
+      <h3>🏛️ STARTIN' Platform</h3>
+      [cite_start]<p>Technical execution of a closed-loop ecosystem connecting startups with high-potential interns[cite: 15].</p>
+      <a href="https://lehanvats.pythonanywhere.com/"><b>[LIVE_DECODE]</b></a> [cite: 16]
+    </td>
+ </tr>
+ <tr>
+    <td>
+      <h3>🩸 Global Health QA</h3>
+      <p>Using Hugging Face Transformers to propose data-driven policy recommendations via DistilBERT[cite: 12, 13].</p>
+      <a href="https://github.com/Viva03/Flairquest2.git"><b>[SOURCE_CODE]</b></a> [cite: 14]
+    </td>
+    <td>
+      <h3>📅 Leave Systems</h3>
+      <p>Enterprise-grade MVC architecture featuring automated manager-approval workflows[cite: 19].</p>
+      <a href="https://github.com/Viva03/EmployeeManagementSystem.git"><b>[SOURCE_CODE]</b></a> [cite: 21]
+    </td>
+ </tr>
+</table>
+
+---
+
+## 📈 SYSTEM_METRICS
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viva-baranwal-224151279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baranwalviva@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viva03)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viva03&show_icons=true&theme=neon&bg_color=0d1117&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viva03&layout=compact&theme=neon&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&hide_border=true" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Viva03/Viva03/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+## 📡 COMM_CHANNELS
+<p align="center">
+<a href="https://www.linkedin.com/in/viva-baranwal-224151279"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:baranwalviva@gmail.com"><img src="https://img.shields.io/badge/Gmail-7a2ed1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Viva03"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/view?type=waving&color=ff00ff&height=60&section=footer" width="100%" />
 
 </div>
