@@ -1,14 +1,12 @@
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2000&auto=format&fit=crop" width="100%" />
-
-<h1 style="color:#ff3ea5;">Viva Baranwal</h1>
-
-<p>
-.NET Developer • Backend Builder • Hackathon Explorer
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:ff0080,100:6a00ff"/>
 </p>
 
-</div>
+<h2 align="center">Viva Baranwal</h2>
+
+<p align="center">
+ASP.NET Developer • .NET Backend Builder
+</p>
 
 ---
 
