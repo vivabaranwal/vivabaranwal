@@ -1,39 +1,17 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=12,24,30&text=&animation=fadeIn"/>
-</p>
-<p align="center">
-
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-<linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#ff2fa3"/>
-<stop offset="50%" stop-color="#ff6ec7"/>
-<stop offset="100%" stop-color="#8a2be2"/>
-</linearGradient>
-</defs>
-
-<rect x="0" y="55" width="900" height="6" fill="url(#neonGradient)" rx="3"/>
-
-<circle cx="60" cy="58" r="7" fill="#ff2fa3"/>
-<circle cx="840" cy="58" r="7" fill="#8a2be2"/>
-
-</svg>
-
+<img src="./banner.svg"/>
 </p>
 
 <div align="center">
 
-<h1 style="color:#ff2fa3; font-size:42px;">Viva Baranwal</h1>
+# Viva Baranwal
 
-<p style="color:#ff6ec7;">
 ASP.NET Developer • .NET Backend Builder • Computer Science Student
-</p>
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&color=FF2FA3&center=true&vCenter=true&width=600&lines=Building+modern+.NET+web+applications;Hackathons+%7C+Backend+Systems+%7C+Web+Apps;Turning+ideas+into+real+products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&color=FF2FA3&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+products;Building+modern+.NET+web+applications;Hackathons+%7C+Backend+Systems+%7C+Web+Apps"/>
 </p>
 
 ---
@@ -88,5 +66,7 @@ LinkedIn
 https://linkedin.com/in/viva-baranwal  
 
 GitHub  
-https://github.com/vivabaranwal  
+https://github.com/Viva03  
 
+Email  
+baranwalviva@gmail.com
