@@ -38,7 +38,8 @@ ASP.NET Developer • .NET Backend Builder • Computer Science Student
 
 ###  Currently Learning
 
-• Advanced ASP.NET architecture  
+• Advanced ASP.NET architecture
+• Frontend  
 • Backend system design  
 • Building real products
 • Cloud Computing
