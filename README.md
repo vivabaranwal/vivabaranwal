@@ -1,12 +1,3 @@
-<h1 align="center">Lehan Vats</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Agentic+Systems&cursorColor=FFD700&pixel=true"/>
-</p>
-
-<div align="center">
-  <h3>AI Engineer • LLMs • Agentic Systems</h3>
-</div>
 <p align="center">
 
 <img src="./banner.svg"/>
